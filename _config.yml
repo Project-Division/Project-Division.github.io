@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: ÇÁ·ÎÁ§Æ® µğºñÀü
-title: ¾î¶² ¼­ºñ½ºÀÇ ½ÃÀÛ, ¿ì¸®µéÀÇ ½ÃÀÛ 
+name: í”„ë¡œì íŠ¸ ë””ë¹„ì „
+title: ì–´ë–¤ ì„œë¹„ìŠ¤ì˜ ì‹œì‘, ìš°ë¦¬ë“¤ì˜ ì‹œì‘ 
 #email: Your email (optional)
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -19,25 +19,25 @@ title: ¾î¶² ¼­ºñ½ºÀÇ ½ÃÀÛ, ¿ì¸®µéÀÇ ½ÃÀÛ
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: Division Github
+  icon: fab fa-github
+  url: https://github.com/Project-Division
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: PROJECT LEMON
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
