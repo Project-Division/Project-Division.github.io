@@ -49,16 +49,16 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: 우리들의 대하여
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  모든 것을 함께, 쉽게, 재밌게 무엇이든 해보는 디비전입니다. 여러분들이 무엇을 상상하든 그 이상을 경험할 수 있습니다. <mark>지금바로 여기서</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  디비전이 하고 있는 일은 다음과 같습니다. 그렇게 어렵지도 그렇다고 쉽지도 않을까요?
+    - 서비스 제작 및 배포
+    - 공모전 참가
+    - 강연
+#- Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
