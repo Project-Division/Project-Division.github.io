@@ -61,15 +61,15 @@ about_content: | # this will include new lines to allow paragraphs
 #- Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: 진행중인 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: PROJECT LEMON
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link: https://github.com/orgs/Project-Division/projects/2
+        link_text: Github
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -78,9 +78,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          전자제품을 보다 편리하고 간편하게 고르자!
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          전자제품 추천을 더욱 쉽고 간편하게 전문지식없이도 가능하게 도와주는 서비스를 제작하는 프로젝트 입니다.
   - title: Experience
     layout: list
     content:
