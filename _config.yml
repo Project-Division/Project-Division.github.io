@@ -73,10 +73,10 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/orgs/Project-Division/projects/2
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/orgs/Project-Division/projects/2
         quote: >
           전자제품을 보다 편리하고 간편하게 고르자!
         description: | # this will include new lines to allow paragraphs
